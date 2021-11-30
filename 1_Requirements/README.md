@@ -46,9 +46,9 @@
 
 | ID | Description | Status|
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-|              |                 |              |
+| HR 01   | User can be able to turn ON/OFF the heating mechanism    | 	Implemented  |
+|  HR 02 | User shall be able to alter the temperature range     | Implemented     |
+|        HR 03      |       Provided LCD display that shows the temperature of the heater          |    	Implemented          |
 
 
 
