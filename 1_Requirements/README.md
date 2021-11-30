@@ -41,3 +41,19 @@
 - To maintain HEALTH in normal/stable state.
 ## HOW
 - By generating a variable heat.
+## Detail Requirements
+## High Level Requirements
+
+| ID | Description | Status|
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+|              |                 |              |
+
+
+
+
+
+
+
+
