@@ -50,9 +50,15 @@
 |  HR 02 | User shall be able to alter the temperature range     | Implemented     |
 |        HR 03      |       Provided LCD display that shows the temperature of the heater          |    	Implemented          |
 
+## Low level Requirement
 
-
-
+| ID | Description | Status|
+| :---         |     :---:      |          ---: |
+|  LR01  | Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1    | 	Implemented  |
+|  LR02 | System will tell user that temperature is switching  | Implemented     |
+|    LR03    |     	user have to turn on or off the vehicle AC          |    	Implemented          |
+|    LR04   |     	System will display the temperature value inside the vehicle         |    	Implemented          |
+|    LR05    |     	System will stopped working once vehicle is Stopped Not        |    	Implemented          |
 
 
 
