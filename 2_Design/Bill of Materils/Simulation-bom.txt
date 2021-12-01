@@ -1,0 +1,13 @@
+
+Circuit: Simulation.simu
+
+Bill of Materials:
+
+Led-15 : Led   
+Led-16 : Led   
+Potentiometer-40 : Potentiometer 1 kΩ
+Resistor-13 : Resistor 100 Ω
+Resistor-14 : Resistor 100 Ω
+Switch-10 : Switch   
+Switch-9 : Switch   
+atmega328-1 : atmega328   
