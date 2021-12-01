@@ -1,3 +1,4 @@
+This folder contains Test plan and Output related to the mini project
 ## Activity 1 Output
 ![image](https://user-images.githubusercontent.com/68271765/144232042-454492e9-5657-4b54-9739-2e73ef64f7cf.png)
 
