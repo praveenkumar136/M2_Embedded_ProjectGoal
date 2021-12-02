@@ -3,5 +3,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f9ba34de16504099840c71bbaa62a72b)](https://www.codacy.com/gh/praveenkumar136/M2_Embedded_Temperature-Monitoring-and-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=praveenkumar136/M2_Embedded_Temperature-Monitoring-and-Control-System&amp;utm_campaign=Badge_Grade)
 
 
- 
+ ## Cpp Check
  [![Cppcheck](https://github.com/praveenkumar136/M2_Embedded_Temperature-Monitoring-and-Control-System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/praveenkumar136/M2_Embedded_Temperature-Monitoring-and-Control-System/actions/workflows/Codequality.yml)
