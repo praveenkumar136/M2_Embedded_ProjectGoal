@@ -9,7 +9,7 @@ src/header3.c\
 SeatHeat.c
 
 # All header file paths
-INC = -I
+INC = -I inc
 
 
 OBJCOPY=avr-objcopy.exe
